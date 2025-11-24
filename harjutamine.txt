@@ -2,3 +2,6 @@ GitHub on koht internetis, kus inimesed hoiavad ja jagavad oma koodi.
 Seda kasutavad arendajad, firmad ja ka hobiprogrammeerijad, et ühiselt projekte teha, muudatusi jälgida ja koodi turvaliselt talletada.
 
 Saan GitHubi kasutada selleks, et sinu projektidest paremini aru saada ja aidata koodi selgitada, täiustada või analüüsida.
+
+GitHub Inc. asutasid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett aastal 2008,
+ja GitHubi teenus muutus avalikult kättesaadavaks samuti 2008. aastal (ametlik käivitamine aprillis).
