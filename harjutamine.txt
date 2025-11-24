@@ -1,2 +1,4 @@
 GitHub on koht internetis, kus inimesed hoiavad ja jagavad oma koodi.
 Seda kasutavad arendajad, firmad ja ka hobiprogrammeerijad, et ühiselt projekte teha, muudatusi jälgida ja koodi turvaliselt talletada.
+
+Saan GitHubi kasutada selleks, et sinu projektidest paremini aru saada ja aidata koodi selgitada, täiustada või analüüsida.
